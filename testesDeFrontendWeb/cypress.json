@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://rarotube.herokuapp.com",
+    "testFiles": "**/*.feature"
+}
